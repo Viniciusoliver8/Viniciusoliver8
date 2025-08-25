@@ -1,24 +1,24 @@
-<h1 align="left"> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  What's up?</h1>
+<h1 align="left"> Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">  Tudo bem?</h1>
 
 ###
 
-<p align="left">My name is Vinicius.  
-I'm passionate about technology, naturally curious, and love turning ideas into code. 🚀<br>  
-Every challenge is an opportunity to learn something new and grow in the world of development. 💻✨ <br>
-Currently, my focus is web development, but I'm always exploring other areas in computing.
+<p align="left">Meu nome é Vinicius.  
+Sou apaixonado por tecnologia, curioso por natureza e adoro transformar ideias em código. 🚀<br>  
+Cada desafio é uma oportunidade de aprender algo novo e crescer no mundo do desenvolvimento. 💻✨   <br>
+Atualmente meu foco é desenvolvimento web, mas estou sempre explorando novas áreas da computação.
 </p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">🎓 Student of Computer Science at UNIP  <br>🎯 Goal: Land my first developer internship and participate in real projects  <br>💡 Curious to understand how everything works behind the scenes  <br>🤓 Passionate about solving problems and learning new things</p>
+<p align="left">🎓 Estudante de Ciência da Computação na UNIP <br>🎯 Objetivo: Conseguir meu primeiro estágio como desenvolvedor e participar de projetos reais <br>💡 Curioso para entender como tudo funciona por trás dos panos <br>🤓 Apaixonado por resolver problemas e aprender coisas novas</p>
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -47,7 +47,3 @@ Currently, my focus is web development, but I'm always exploring other areas in 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-###
