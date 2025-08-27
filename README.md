@@ -14,7 +14,7 @@ Atualmente meu foco é desenvolvimento web, mas estou sempre explorando novas á
 
 ###
 
-<p align="left">🎓 Estudante de Ciência da Computação na UNIP <br>🎯 Objetivo: Conseguir meu primeiro estágio como desenvolvedor e participar de projetos reais <br>💡 Curioso para entender como tudo funciona por trás dos panos <br>🤓 Apaixonado por resolver problemas e aprender coisas novas</p>
+<p align="left">🎓 Estudante de Ciência da Computação na UNIP <br>💡 Curioso para entender como tudo funciona por trás dos panos <br>🤓 Apaixonado por resolver problemas e aprender coisas novas</p>
 
 ###
 
